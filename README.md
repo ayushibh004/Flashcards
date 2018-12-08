@@ -5,8 +5,7 @@
 This allows users to create their own flashcard
 
 ### App Walk-though
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/ayushibh004/Flashcards/blob/98a26d04552bcc25cf604e0bfb6d61f075d1d6cd/Flashcard_labfour.gif " width=200><br>
 
 ## Required
 - [X] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
@@ -24,11 +23,9 @@ This allows users to create their own flashcard
 ## Lab 1
 
 ### App Description
-`TODO://` Add app description
+Simple display of a question and answer
 
 ### App Walk-though
-`TODO://`https://github.com/ayushibh004/Flashcards/raw/master/Flashcards_one.gif
-
 <img src="https://github.com/ayushibh004/Flashcards/raw/master/Flashcards_one.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
