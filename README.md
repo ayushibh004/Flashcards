@@ -4,7 +4,7 @@
 Allows users to create and see all the flashcards they created.
 
 ### App Walk-though
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/ayushibh004/Flashcards/blob/master/Flashcard_lab6.gif" width=200><br>
 
 ## Required
 - [X] User can create a card and still see their created card when the app is relaunched.
@@ -15,7 +15,6 @@ Allows users to create and see all the flashcards they created.
 - [ ] Flashcards are shown in random order instead of the order they were created in
 - [ ] User can edit a card and see the edit saved when they browse through their deck of cards
 - [ ] User can create flashcards with multiple answers and be able to browse through cards with multiple choice answers shown
-
 
 
 ## Flashcards
